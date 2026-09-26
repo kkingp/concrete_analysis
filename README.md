@@ -18,7 +18,7 @@ This project examines how concrete composition and curing age relate to compress
 concrete-analysis/
 ├── README.md              <- you are here
 ├── report/
-│   └── report.md           <- full client-facing report
+│   └── report.pdf           <- full client-facing report
 ├── code/
 │   └── concrete_analysis.sas   <- full SAS analysis code
 ├── figures/
