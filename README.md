@@ -2,7 +2,7 @@
 
 A statistical analysis of concrete mix design data, prepared for a mock client (a construction manager) to support decisions on mixture design, safety evaluation, and quality control.
 
-This project was originally developed as the final project for **STAT 448: Advanced Data Analysis** at the **University of Illinois Urbana-Champaign**, built around a mock-client scenario in which the analysis and recommendations were framed as a deliverable for a construction manager. It has since been revised and expanded for portfolio purposes, with corrections to several methodological issues identified during a deeper review (see `report/report.md` for details, including notes on data leakage, model validation, and statistical corrections applied throughout).
+This project was originally developed as the final project for **STAT 448: Advanced Data Analysis** at the **University of Illinois Urbana-Champaign**, built around a mock-client scenario in which the analysis and recommendations were framed as a deliverable for a construction manager. It has since been revised and expanded for portfolio purposes, with corrections to several methodological issues identified during a deeper review (see `report/report.pdf` for details, including notes on data leakage, model validation, and statistical corrections applied throughout).
 
 ## Overview
 
